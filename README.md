@@ -32,7 +32,7 @@
   • Prevents tampering by rejecting altered messages 
 
   • Supports interactive replies from the server 
-  
+
   • Chat is exited when the client types "exit" 
   
 
@@ -57,5 +57,5 @@
     When the client connects; the server and the client can chat
 
 
-  Ⅲ To exit:
+  Ⅲ. To exit:
      Type "exit" from the client to close the connection
